@@ -3,4 +3,4 @@ sentence-transformers==2.2.2
 faiss-cpu==1.7.4
 transformers==4.35.2
 torch
-numpy==1.26.2
+numpy
